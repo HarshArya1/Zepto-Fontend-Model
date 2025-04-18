@@ -96,6 +96,8 @@ input{
 .img22{
     margin-left: 2.4vw;
     margin-top: 2vw;
+    height: 18.5vw;
+    width: 94vw;
 }
 .box{
     display: flex;
@@ -155,6 +157,7 @@ input{
     border-radius: 5%;
     color: white;
     font-weight: 600;
+    font-size: 1.2vw;
 }
 .foot{
     margin-top: 4vw;
@@ -175,9 +178,12 @@ input{
     margin-right: 1vw;
     margin-top: 1vw;
     margin-bottom: 1.5vw;
+    height: 1.2vw;
+    width: 1.4vw;
 }
 b{
     color: rgb(48, 48, 48);
+    font-size: 1.1vw;
 }
 p{
     font-size: 1vw;
@@ -186,4 +192,12 @@ p{
     background-color: #FF5733; /* Example: Highlight active button */
     color: white;
     font-weight: bold;
+}
+.pic{
+    width: 11.417vw;
+    height: 11.417vw;
+}
+.pic2{
+    height: 6vw;
+    width: 9vw;
 }

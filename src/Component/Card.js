@@ -1,7 +1,7 @@
 export default function Card(props) {
     return (
         <div className="car">
-            <img src={props.src} height="200px" width="200px" alt={props.name} />
+            <img className="pic" src={props.src}  alt={props.name} />
             <div className="abs">discount:{props.discount}%</div>
             <div>
             <div className="fon">Name: {props.name}</div>

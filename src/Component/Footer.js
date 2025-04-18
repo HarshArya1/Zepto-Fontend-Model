@@ -4,7 +4,7 @@ export default function Footer(){
         <hr></hr>
         <div className="foot">
         <div className="item">
-            <img src="https://cdn.zeptonow.com/web-static-assets-prod/artifacts/12.67.1/images/logo.svg"/>
+            <img className="pic2" src="https://cdn.zeptonow.com/web-static-assets-prod/artifacts/12.67.1/images/logo.svg"/>
             <div className="tag">
                 <img className="img55" src="https://cdn.zeptonow.com/web-static-assets-prod/artifacts/12.67.1/images/social-media/instagram.svg"/>
                 <img className="img55" src="https://cdn.zeptonow.com/web-static-assets-prod/artifacts/12.67.1/images/social-media/twitter.svg"/>
